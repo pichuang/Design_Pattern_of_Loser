@@ -50,7 +50,7 @@ def main():
     print("Price of {chicken_type} is {price}".format(chicken_type=kfc_chicken.__class__.__name__,
                                                       price=kfc_chicken.get_price()))
 
-    # Get McDonald_Chicken
+    # Get McDonald Chicken
     mcdonald_chicken = ChickenFactory.order_chicken("MCDonald")
     print("Price of {chicken_type} is {price}".format(chicken_type=mcdonald_chicken.__class__.__name__,
                                                       price=mcdonald_chicken.get_price()))
