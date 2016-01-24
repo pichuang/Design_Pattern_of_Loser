@@ -16,6 +16,10 @@ Use stories to explain design patterns.
   * 牛肉炒飯 = 牛肉 + XO醬 + 可樂 + 越光米
   * 雞肉炒飯 = 雞肉 + 沙茶醬 + 水 + 越光米
 
+## [橋接模式 Bridge](Bridge/ShowTime.py)
+
+妹子想要在 Linux 跟 Windows 上列出現在的時間，但是她沒有辦法分辨如何下各自系統對應的指令。他只想要有一個統一的方式可以顯示各自的時間。
+
 # Reference
   * [java 23种设计模式，一般情况下，常用的有哪些啊](http://zhidao.baidu.com/question/46893254.html)
   * [faif/python-patterns](https://github.com/faif/python-patterns)
