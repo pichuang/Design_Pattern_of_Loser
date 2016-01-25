@@ -26,8 +26,9 @@ Use stories to explain design patterns.
 
   * [Arimura Kasumi](https://www.instagram.com/kasumi_arimura/)
   * [Hashimoto Kanna](https://www.instagram.com/hashimoto_kanna/)
-  
+
 # Reference
   * [java 23种设计模式，一般情况下，常用的有哪些啊](http://zhidao.baidu.com/question/46893254.html)
   * [faif/python-patterns](https://github.com/faif/python-patterns)
   * [GitHub Flavored Markdown - Live Preview](http://tmpvar.com/markdown.html)
+  * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
