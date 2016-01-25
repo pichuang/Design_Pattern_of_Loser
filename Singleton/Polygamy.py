@@ -34,7 +34,7 @@ class Wife(object):
         self.husband = husband
 
     def call_husband(self):
-        print("{0} call {1} (object id is {2})".format(self.name, self.husband.name, id(self.husband)))
+        print("{0} love {1} (object id is {2})".format(self.name, self.husband.name, id(self.husband)))
 
 
 def main():
