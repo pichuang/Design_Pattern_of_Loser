@@ -24,6 +24,9 @@ Use stories to explain design patterns.
 
 我有 2 個漂亮的老婆，她們的老公都是我。當她們只要說到"老公"，指的都是同一人，也就是我。
 
+  * [Arimura Kasumi](https://www.instagram.com/kasumi_arimura/)
+  * [Hashimoto Kanna](https://www.instagram.com/hashimoto_kanna/)
+  
 # Reference
   * [java 23种设计模式，一般情况下，常用的有哪些啊](http://zhidao.baidu.com/question/46893254.html)
   * [faif/python-patterns](https://github.com/faif/python-patterns)
