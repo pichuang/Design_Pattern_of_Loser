@@ -33,15 +33,15 @@ class Wife(object):
         self.name = name
         self.husband = husband
 
-    def call_husband(self):
+    def love(self):
         print("{0} love {1} (object id is {2})".format(self.name, self.husband.name, id(self.husband)))
 
 
 def main():
     wife_1 = Wife(name="Arimura Kasumi", husband=Husband())  # https://www.instagram.com/kasumi_arimura/
     wife_2 = Wife(name="Hashimoto Kanna", husband=Husband())  # https://en.wikipedia.org/wiki/Kanna_Hashimoto
-    wife_1.call_husband()
-    wife_2.call_husband()
+    wife_1.love()
+    wife_2.love()
 
 
 if __name__ == '__main__':
