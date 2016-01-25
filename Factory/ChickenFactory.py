@@ -17,7 +17,9 @@ https://github.com/faif/python-patterns/blob/master/factory_method.py
 
 
 class Chicken(object):
-    price = None
+
+    def __init__(self):
+        self.price = None
 
     def get_price(self):
         return self.price

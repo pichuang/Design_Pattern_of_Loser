@@ -20,7 +20,6 @@ class Director(object):
     """
     Counter Service or Waiter
     """
-    builder = None
 
     def __init__(self, builder):
         self.builder = builder
